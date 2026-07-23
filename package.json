@@ -2,7 +2,7 @@
   "name": "sunny-light",
   "version": "1.0.0",
   "private": true,
-  "dependencies": {
-    "vercel-php": "^0.6.0"
+  "scripts": {
+    "build": "node build.js"
   }
 }
