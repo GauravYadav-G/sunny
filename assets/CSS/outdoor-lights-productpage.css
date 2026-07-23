@@ -19,7 +19,7 @@
   margin-top: 40px;
 }
 
-.productpage-category{
+.productpage-category {
   margin-top: 24px;
 }
 
@@ -154,7 +154,8 @@
         -------------------- */
 .product-group {
   margin-bottom: 50px;
-  grid-column: 1 / -1; /* Make product groups span all columns */
+  grid-column: 1 / -1;
+  /* Make product groups span all columns */
 }
 
 .product-group-title {
@@ -201,13 +202,14 @@
 .product-image img {
   width: 100%;
   height: 100%;
-  /* object-fit: cover; */
+  object-fit: contain;
   transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 .product-image .default-image {
   opacity: 1;
 }
+
 .product-image .hover-image {
   opacity: 0;
 }
@@ -219,6 +221,7 @@
 .product-card:hover .hover-image {
   opacity: 1;
 }
+
 .product-image .hover-image {
   position: absolute;
   top: 0;
@@ -300,7 +303,7 @@
     margin-bottom: 20px;
   }
 
-  
+
 }
 
 @media (max-width: 768px) {
@@ -356,14 +359,14 @@
     color: #007bff;
   }
 
-  .main-productcategory{
-  margin-top: 20px;
-}
+  .main-productcategory {
+    margin-top: 20px;
+  }
 
-.product-group-title {
-  font-size: 21px;
- 
-}
+  .product-group-title {
+    font-size: 21px;
+
+  }
 
 
   /* 👇 This part makes 2 products per row on mobile */
@@ -372,57 +375,56 @@
     gap: 15px;
   }
 
-  .product-image{
-        height: 160px;
+  .product-image {
+    height: 160px;
   }
 
-  .product-group
- {
+  .product-group {
     margin-bottom: 25px;
   }
 
 }
 
- /* Additional CSS for filtering functionality */
-        .product-group {
-            display: block;
-        }
-        
-        .product-group.hidden {
-            display: none;
-        }
-        
-        .back-to-all {
-            display: none;
-            margin-bottom: 20px;
-            background-color: #f8f9fa;
-            padding: 10px 15px;
-            border-radius: 5px;
-            border-left: 4px solid #007bff;
-        }
-        
-        .back-to-all button {
-            background: none;
-            border: none;
-            color: #007bff;
-            cursor: pointer;
-            font-size: 16px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        
-        .back-to-all button:hover {
-            color: #0056b3;
-        }
-        
-        .filter-link.active {
-            /* background-color: #e9ecef; */
-            font-weight: bold;
-            color: #007bff !important;
-        }
-        
-        /* Ensure proper spacing */
-        .mysidebar {
-            scroll-behavior: smooth;
-        }
+/* Additional CSS for filtering functionality */
+.product-group {
+  display: block;
+}
+
+.product-group.hidden {
+  display: none;
+}
+
+.back-to-all {
+  display: none;
+  margin-bottom: 20px;
+  background-color: #f8f9fa;
+  padding: 10px 15px;
+  border-radius: 5px;
+  border-left: 4px solid #007bff;
+}
+
+.back-to-all button {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.back-to-all button:hover {
+  color: #0056b3;
+}
+
+.filter-link.active {
+  /* background-color: #e9ecef; */
+  font-weight: bold;
+  color: #007bff !important;
+}
+
+/* Ensure proper spacing */
+.mysidebar {
+  scroll-behavior: smooth;
+}

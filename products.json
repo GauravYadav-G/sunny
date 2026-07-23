@@ -48,8 +48,7 @@
       "assets/img/Indoor-light-img/anti-glare-light/spot-2..png",
       "assets/img/Indoor-light-img/anti-glare-light/light-2.png",
       "assets/img/Indoor-light-img/all/deep-2.jpg",
-      "assets/img/Indoor-light-img/anti-glare-light/img-15.png",
-      "assets/img/Indoor-light-img/anti-glare-light/img-16.png"
+      "assets/img/Indoor-light-img/anti-glare-light/img-15.png"
     ]
   },
   {
@@ -97,11 +96,11 @@
       }
     ],
     "images": [
-      "assets/img/Indoor-light-img/anti-glare-light/img-9.jpg",
-      "assets/img/Indoor-light-img/anti-glare-light/img-11.png",
+      "assets/img/Indoor-light-img/anti-glare-light/light-1.png",
+      "assets/img/Indoor-light-img/anti-glare-light/spot-2..png",
+      "assets/img/Indoor-light-img/anti-glare-light/light-2.png",
       "assets/img/Indoor-light-img/all/deep-2.jpg",
-      "assets/img/Indoor-light-img/anti-glare-light/img-15.png",
-      "assets/img/Indoor-light-img/anti-glare-light/img-16.png"
+      "assets/img/Indoor-light-img/anti-glare-light/img-15.png"
     ]
   },
   {
@@ -2702,7 +2701,8 @@
     "images": [
       "assets/img/Indoor-light-img/all/anti-d-3.jpg",
       "assets/img/Indoor-light-img/all/anti-d-1.jpg",
-      "assets/img/Indoor-light-img/all/anti-d-4.png"
+      "assets/img/Indoor-light-img/all/anti-d-4.png",
+      "assets/img/Indoor-light-img/all/1091r,92r.png"
     ]
   },
   {
@@ -2763,7 +2763,8 @@
     "images": [
       "assets/img/Indoor-light-img/all/anti-d-3.jpg",
       "assets/img/Indoor-light-img/all/anti-d-1.jpg",
-      "assets/img/Indoor-light-img/all/anti-d-4.png"
+      "assets/img/Indoor-light-img/all/anti-d-4.png",
+      "assets/img/Indoor-light-img/all/1091r,92r.png"
     ]
   },
   {
@@ -2792,6 +2793,7 @@
       "Warranty": "2 Years"
     },
     "images": [
+      "assets/img/Indoor-light-img/anti-glare-light/img-11.png",
       "assets/img/Indoor-light-img/anti-glare-light/pr-11.png",
       "assets/img/Indoor-light-img/anti-glare-light/SLMX1591-4.png",
       "assets/img/Indoor-light-img/anti-glare-light/SLMX1591-3.png",
@@ -2871,6 +2873,7 @@
       "Warranty": "2 Years"
     },
     "images": [
+      "assets/img/Indoor-light-img/anti-glare-light/img-11.png",
       "assets/img/Indoor-light-img/anti-glare-light/SLMX1591-3.png",
       "assets/img/Indoor-light-img/anti-glare-light/pr-11.png",
       "assets/img/Indoor-light-img/anti-glare-light/SLMX1591-4.png",
